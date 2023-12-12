@@ -1,0 +1,1081 @@
+.blackLetter{
+    color: black !important;
+}
+body{
+    font-family: 'Arimo', sans-serif !important;
+}
+.font{
+    font-family: 'Anton', sans-serif !important;
+}
+.font2{
+    font-family: 'Arimo', sans-serif !important;
+}
+/* hr{
+    background-color: red;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+} */
+.underlined{
+    text-decoration: underline;
+  }
+.center{
+    text-align: center !important;
+}
+.bolder{
+    font-weight: bolder !important;
+}
+.spacingParagraph{
+    letter-spacing: 1.5px;
+}
+.ulsize14{
+    font-size: 14px !important;
+}
+.margin3{
+    margin: 3% !important;
+}
+.margin13{
+    margin: 13%;
+}
+.left{
+    text-align: left;
+}
+.white{
+    color: white;
+}
+.right {
+    text-align: right;
+}
+
+.navbrand{
+    width: 99% !important;
+    margin-bottom: -28%;
+    margin-top: -11%;
+}
+.nav-item:hover {
+    color: #ce1a1e !important;
+}
+.colorArca {
+    color: #ce1a1e !important;
+}
+.bg-Arca{
+    background-color: #ce1a1e !important ;
+}
+.itemServicios{
+    margin-top: 5%;
+}
+.bodyG{
+    /* background-color: rgb(214, 233, 241); */
+    background-color: rgba(241, 225, 162, 0.335);
+}
+.titleBannerHeader{
+    font-size: 1.2rem;
+}
+.preFooter{
+    padding: 1%;  
+}
+.contactSiteMap{
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.877);
+    color: grey !important;
+}
+.proyectosContact{
+    margin-top: 5%;
+}
+/* #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+} */
+.presInit{
+  /* background-image: url("/assets/images/two-man.jpg"); */
+  height: 500px; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-color: black; */
+}
+.arcaphoto:hover{
+    /* opacity:1; */
+    filter: grayscale(100%);
+}
+.solTot{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: #ce1a1dc4;
+    width: 36rem;
+    margin-left: -19%;
+    padding-left: 4%;
+
+}
+.solTotNegro{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    width: 80%;
+    margin-left: 10%;
+    padding-left: 4%;
+
+}
+
+.arca1photo{
+    background-image: url("/assets/images/estructuras.jpeg");
+    height: 20rem; 
+    width: 20rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 1%;
+    margin-right: 1%;
+    /* opacity: 0.8; */
+}
+.arca2photo{
+    background-image: url("/assets/images/portadaObraCivil.jpeg");
+    height: 20rem; 
+    width: 20rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 1%;
+    margin-right: 1%;
+    /* opacity: 0.8; */
+}
+.arca3photo{
+    background-image: url("/assets/images/terraceria2.jpeg");
+    height: 20rem; 
+    width: 20rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 1%;
+    margin-right: 1%;
+    /* opacity: 0.8; */
+}
+.proyectosTitleArca{
+    font-size: 6rem !important;
+    margin-top: 3%;
+    margin-left: -10%;
+}
+.linkProyects{
+    margin-bottom: 10%;
+}
+.pointer {cursor: pointer;}
+.arca4photo{
+    background-image: url("/assets/images/portadaRemodelacion.JPG");
+    height: 20rem; 
+    width: 20rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 1%;
+    margin-right: 1%;
+    /* opacity: 0.8; */
+}
+.linkProyects:hover{
+    color: #ce1a1e;
+    font-size: 14pt;
+}
+.socialMediaDiv{
+    padding: 0%;
+    max-width: 80px;
+}
+.socialMedia{
+    margin-left: 30%;
+}
+.footer{
+    height: 100px;
+    padding-top: 3%;
+}
+.innerDiv{
+    background-color: #ce1a1dc4;
+    height: 40%;
+    width: 30%;
+    padding-left: 30px;
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.titlesInicio{
+    color: white;
+    padding: 50px 25px 60px;
+    text-align: right;
+
+}
+.serviciosInicio{
+    height: 300px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+.concretosInicio{
+  background-image: url("/assets/images/concretos.jpg");
+  height: 200pt; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.inducidaInicio{
+  background-image: url("/assets/images/obraInducida.jpg");
+  height: 200pt; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.pavimentacion{
+  background-image: url("/assets/images/pavimentacion.jpg");
+  height: 200pt; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.inicioServiciosItem {
+    margin-bottom: 3%;
+}
+.inicioServiciosItem:hover{
+    opacity: 0.6;
+    transition-duration: 1s;
+}
+.itemCaptionInicio{
+    padding-top: 1%;
+    padding-bottom: 0.2%;
+    margin-bottom: 3%;
+}
+.proyectosInicio{
+    height: 55rem;
+    background-color:  rgb(58, 58, 58);
+    margin-top: 1.5%;
+    padding-top: 3%;
+    margin-bottom: -1%;
+}
+.btn-proyectosInicio{
+    margin-top: 6%;
+    padding: 3%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.proyectos-bg{
+  background-image: url("/assets/images/construccion2man.jpg");
+  height: 300pt; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 8%;
+  box-shadow: 10px 10px 30px black;
+}
+.proyectos-bg:hover{
+    box-shadow: 10px 10px 60px black;
+    transition-duration: 1s;
+}
+.nosotrosInicio{
+    height: 25rem;
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+
+/* .inicioBody{
+    margin-bottom: 5%;
+} */
+.posibleTitle{
+    position: relative;
+    top: 10%;
+    margin-left: 5%;
+    font-size: 19px !important;
+    margin-top: 4%;
+    font-weight: bolder;
+    font-size: 3rem !important;
+}
+.posibleParagraph{
+    margin-left: 4%;
+    font-size: 1.2rem;
+    width: 90%;
+    text-align: right !important;
+}
+.list-group-item{
+    font-size: 1.3rem;
+}
+.accessNosotrosInicio{
+    height: 38rem;
+    background-color: rgba(231, 104, 0, 0.808);
+    background-image: url("/assets/images/cascos.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* margin-top: 5%; */
+}
+.innerDivNosotros{
+   
+    height: 28%;
+    width: 60%;
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translateY(-50%);
+    padding-top: 6%;
+    background-color: rgba(0, 0, 0, 0.877);
+
+}
+.posibleInicio{
+    height: 38rem;
+    margin-bottom: 5%;
+    margin-top: 4%;
+}
+.siteMap, .contactFooter{
+    margin-top: 3%;
+    margin-left: 2%;
+    padding: 3%;
+}
+.contactFooterTitles{
+    color: sandybrown !important;
+}
+
+.siteMapItem{
+    color: grey !important;
+}
+.siteMapItem:hover, .contactFooterItems:hover{
+    color: sandybrown !important;
+    cursor: pointer;
+}
+.contactoFooterItem{
+    margin-bottom: 5%;
+}
+
+.counterDiv{
+    height: 31rem;
+    background-color:  rgb(177, 174, 174);
+}
+.counterContainer{
+    position: relative;
+    top: 10%;
+}
+/* COUNTER */
+.counter-section{
+    color: black;
+}
+.icon-box{
+    border: 4px solid #ce1a1e;
+    height: 100px;
+    width: 100px;
+    margin: 20% auto;
+    transform: rotate(45deg);
+}
+.fa{
+    font-size: 40px;
+    margin: 25px auto;
+    color: #ffc800;
+    transform: rotate(-45deg);
+}
+.counter-box, p{
+    font-size: 20px;
+}
+.counter{
+    font-size: 80px;
+}
+/* END OF COUNTER */
+.mvContainer{
+    height: 59rem;
+}
+.misionVision{
+    height: 60rem;
+    margin-top: 6%;
+}
+.misionImg{
+    height: 59rem;
+    background-image: url("/assets/images/tower.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mvTitles{
+    margin-top: 6%;
+}
+.mvParagraph{
+    font-size: 17px;
+    margin-bottom: 1.5rem;
+    width: 500px;
+    margin-left: 4%;
+}
+.obraCivilimg{
+    height: 30rem;
+    background-image: url("/assets/images/constructionworker.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+}
+.imgPresentacion{
+    height: 30rem;
+    background-image: url("/assets/images/presentacionProceso.jpeg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imgPlaneacion{
+    height: 30rem;
+    background-image: url("/assets/images/planeacionProceso.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imgEjecucion{
+    height: 30rem;
+    background-image: url("/assets/images/ejecucionProceso.jpeg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.nuestroProcesoTitle2{
+    opacity: 0.8;
+    font-size: 20px;
+    margin-bottom: 3%;
+}
+
+.obraCivilimg:hover, .hogarImg:hover{
+    opacity: 0.3;
+    transition-duration: 0.5s;
+}
+.hogarImg{
+    height: 30rem;
+    background-image: url("/assets/images/realstate.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+}
+.choosing{
+    background-color: black;
+    margin-top: 4%;
+    margin-bottom: 20%;
+}
+
+.serviciosFsTitles{
+    color: white;
+    opacity: 1 ;
+}
+.serviciosUno{
+    background-color: black;
+    height: 20%;
+    width: 50%;
+    padding-left: 18%;
+    padding-top: 6%;
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    transform: translateY(-50%);
+    opacity: 0.9;
+    margin-right: 2%;
+}
+.serviciosDos{
+    background-color: black;
+    height: 20%;
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 6%;
+    box-sizing: border-box;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translateY(-50%);
+    opacity: 0.9;
+    margin-right: 2%;
+}
+.ocTitle{
+    margin-top: 5%;
+    background-color: rgb(116, 115, 115) !important;
+    color: rgb(255, 187, 0);
+    margin-bottom: -5%;
+    padding: 1rem 1rem !important;
+}
+.hogardummie{
+    height: 16rem !important;
+    width: 63% !important;
+    margin-left: 18%;
+    margin-top: 32%;
+    border-radius: 8px;
+}
+.hogardummie2{
+    height: 40% !important;
+    padding-left: 2% !important;
+    padding-top: 8% !important;
+}
+.btnServiciosContacto{
+    font-size: 1.5rem !important;
+}
+.obraCivilExp{
+    margin-bottom: 7%;
+}
+.hogarExp{
+    height: 1000px;
+    margin-bottom: 5%;
+}
+.cardsContainer{
+    margin-top: 10%;
+    margin-left: 2.5%;
+}
+.cardRow1{
+    margin-bottom: 5%;
+}
+.cardBtn{
+    padding-right: 8%;
+    padding-left: 8%;
+}
+.serviciosDiv{
+    margin-bottom: 5%;
+}
+.serviciosTitleRow{
+    background-color: rgb(194, 194, 194);
+    padding: 2%;
+    width: 30rem;
+    border-radius: 8px;
+}
+.serviciosTitleRow2{
+    padding: 2%;
+    width: 30rem;
+    border-radius: 8px;
+}
+.bgServiciosInicio{
+    padding: 3%;
+    padding-bottom: 4%;
+    margin-top: -6%;
+}
+.btnServiciosInicioDiv{
+    padding: 3%;
+}
+.titleStyleInicio {
+    width: 20rem;
+    margin-top: 20%;
+}
+.navbar{
+    margin-top: 6%;
+}
+.estructuraDiv{
+    height: 90rem;
+    padding-top: 3%;
+    background-color: rgba(0, 0, 0, 0.877);
+}
+.estructTtitleServicios{
+    font-size: 3.5rem !important;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+.menuServ{
+    height: 16rem;
+   padding-top: 5%;
+}
+.servMenuItems{
+    font-size: 4rem;
+    color: wheat ;
+}
+.servMenuTitles{
+    margin-top: 3%;
+    color: sandybrown;
+}
+.line1 {
+	border-top: 3px double sandybrown;
+}
+.carousel{
+    width: 60%;
+    margin-left: 20%;
+}
+.callToActionDiv{
+    background-image: url("/assets/images/constructionworker.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20rem;
+    padding-top: 3%;
+    margin-top: 5%;
+    
+}
+.callToActionDiv2{
+    background-image: url("/assets/images/constructionworker.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20rem;
+    padding-top: 3%;
+    
+}
+.obraSile1{
+    background-image: url("/assets/images/portadaObraCivil.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 28rem;
+    padding-top: 3%;
+}
+.callTitles{
+    opacity: 1;
+}
+.call2{
+    background-color: rgba(0, 0, 0, 0.808);
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+.phoneCall{
+    font-size: 22px;
+}
+
+.contactoDivs{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.itemServicioSize{
+    font-size: 4rem;
+}
+
+@media (min-width: 401px) and (min-width: 770px) {
+    .menuFontSize{
+        font-size: 21px !important;
+    }
+}
+
+
+@media (min-width: 401px) and (max-width: 768px) {
+    .bgServiciosInicio{
+        padding-bottom: 10%;
+    }
+    .innerDiv{
+        position: relative;
+        height: 35%;
+        width: 100%;
+        top: 55%;
+        opacity: 0.8;
+    }
+    .jumboTitle1{
+        font-size: 2rem !important;
+    }
+    .titleStyleInicio{
+        width: 123%;
+        margin-top: -8%;
+    }
+    .proyectos-bg{
+        height: 300pt; 
+        margin-top: 15%;
+        
+    }
+    .proyectosInicio{
+        height: 130rem;
+        padding-top: 10%;
+    }
+    .obrasCivilesInicio{
+        font-size: 35px;
+    }
+    .nosotrosInicio{
+        height: 40rem;
+        margin-bottom: 6%;
+        margin-top: 4%;
+    }
+    .posibleParagraph{
+        margin-left: 3%;
+        margin-top: 35%;
+        font-size: 16px;
+        width: 90%;
+    }
+    .posibleInicio{
+        height: 37rem;
+        margin-bottom: 12rem;
+        margin-top: 4%;
+    }
+    /* .posibleParagraph{
+        margin-top: 10%;
+    } */
+    .accessNosotrosInicio{
+        height: 13rem;
+        background-color: rgba(231, 104, 0, 0.808);
+        margin-top: 5%;
+    
+        
+    }
+    .innerDivNosotros{
+        height: 60%;
+        margin-top: 1%;
+    }
+    .copyrightT{
+        font-size: 14px;
+        position: relative;
+        top: 22%;
+    }
+    .contactSiteMap{
+        height: 850px;
+
+    }
+    .counterDiv{
+        height: 72rem;
+    }
+    .mvParagraph{
+        width: 300px;
+        margin-left: 12%;
+    }
+    .misionVision{
+        height: 95rem;
+        margin-top: 0%;
+    }
+    .mvContainer{
+        height: 94rem;
+    }
+    .misionImg{
+        height: 14rem;
+    }
+    .counter{
+        font-size: 40px;
+    }
+    .obraCivilimg, .hogarImg{
+        height: 10rem;
+
+    }
+    .choosing{
+        margin-top: 15%;
+    }
+    .serviciosFsTitles{
+        font-size: 1rem;
+    }
+    .serviciosUno, .serviciosDos {
+        height: 40%;
+    }
+    .serviciosDos{
+        top: 50%;
+    }
+    .display-4{
+        font-size: 2.5rem !important;
+    }
+    .hogardummie{
+        width: 84% !important;
+        margin-left: 7%;
+        margin-top: 7%;
+    }
+    .hogardummie2{
+        top: 20% !important;
+        width: 61% !important;
+        left: 39% !important;
+        height: 20% !important;
+    }
+    .hogarPlaceholder{
+        height: 23.5rem !important;
+    }
+    .hogarExp{
+        height: 2200px;
+    }
+    .hogTitle{
+        font-size: 1.5rem !important;
+    }
+    .cardsContainer{
+        margin-top: 17% !important;
+        margin-left: 4% !important;
+
+    }
+    .proyectosTitleArca{
+        font-size: 2.5rem !important;
+    }
+    .itemServicioSize{
+        font-size: 2rem !important;
+    }
+    .nuestroProcesoTitle{
+        font-size: 2rem;
+    }
+    .titlesInicio{
+
+      padding: 77px 95px 30px 1px;
+    }
+
+    .serviciosTitleRow{
+        margin-top: 10%;
+    }
+    .solTot2{
+        font-size: 20pt;
+    }
+    .solTot{
+        margin-left: 0%;
+        padding-left: 0%;
+    }
+    .navbrand{
+        width: 68% !important;
+        margin-bottom: -26%;
+        margin-top: -3%;
+    }
+    .servMenuItems{
+        font-size: 3rem;
+        margin-top: 5%;
+    }
+    .menuServ{
+        height: 26rem; 
+        margin-top: 7%;
+    }
+    .estructTtitleServicios{
+        margin-top: 15%;
+    }
+    .carousel{
+        width: 100%;
+        margin-left: 0%;
+        margin-top: 10%;
+    }
+    .callToActionDiv, .callToActionDiv2{
+        height: 14rem;
+    }
+    .obraSile1{
+        height: 13.7rem;
+    }
+    .posibleTitle{
+        font-size: 2rem !important;
+    }
+    .posibleParagraph{
+        margin-left: 3%;
+        margin-top: -2%;
+        font-size: 16px;
+        width: 90%;
+    }
+    .rowWithNoMargin{
+        margin-left: 2rem;
+    }
+
+}
+@media (max-width: 400px) {
+    .rowWithNoMargin{
+        margin-left: 2rem;
+    }
+    .posibleTitle{
+        font-size: 2rem !important;
+    }
+    .obraSile1{
+        height: 13.7rem;
+    }
+    .callToActionDiv, .callToActionDiv2{
+        height: 14rem;
+    }
+    .carousel{
+        width: 100%;
+        margin-left: 0%;
+        margin-top: 10%;
+    }
+    .estructTtitleServicios{
+        margin-top: 15%;
+    }
+    .menuServ{
+        height: 26rem; 
+        margin-top: 7%;
+    }
+    .servMenuItems{
+        font-size: 3rem;
+        margin-top: 5%;
+    }
+    .navbrand{
+        width: 68% !important;
+        margin-bottom: -26%;
+        margin-top: -3%;
+    }
+    .solTot{
+        margin-left: 0%;
+        padding-left: 0%;
+    }
+    .solTot2{
+        font-size: 20pt;
+    }
+    .serviciosTitleRow{
+        margin-top: 10%;
+    }
+    .titlesInicio{
+
+        padding: 77px 95px 30px 1px;
+    }
+    .nuestroProcesoTitle{
+        font-size: 2rem;
+    }
+    .bgServiciosInicio{
+        padding-bottom: 10%;
+    }
+    .itemServicioSize{
+        font-size: 2rem !important;
+    }
+    .proyectosTitleArca{
+        font-size: 2.5rem !important;
+    }
+    .innerDiv{
+        position: relative;
+        height: 35%;
+        width: 100%;
+        top: 55%;
+        opacity: 0.8;
+    }
+    .jumboTitle1{
+        font-size: 2rem !important;
+    }
+    .titleStyleInicio{
+        width: 123%;
+        margin-top: -8%;
+    }
+    .proyectos-bg{
+        height: 300pt; 
+        margin-top: 15%;
+        
+    }
+    .proyectosInicio{
+        height: 130rem;
+        padding-top: 10%;
+    }
+    .obrasCivilesInicio{
+        font-size: 35px;
+    }
+    .nosotrosInicio{
+        height: 40rem;
+        margin-bottom: 6%;
+        margin-top: 4%;
+    }
+    .posibleParagraph{
+        margin-left: 3%;
+        margin-top: -2%;
+        font-size: 16px;
+        width: 90%;
+    }
+    .posibleInicio{
+        height: 37rem;
+        margin-bottom: 12rem;
+        margin-top: 4%;
+    }
+    /* .posibleParagraph{
+        margin-top: 10%;
+    } */
+    .accessNosotrosInicio{
+        height: 13rem;
+        background-color: rgba(231, 104, 0, 0.808);
+        margin-top: 5%;
+    
+        
+    }
+    .innerDivNosotros{
+        height: 60%;
+        margin-top: 1%;
+    }
+    .copyrightT{
+        font-size: 14px;
+        position: relative;
+        top: 22%;
+    }
+    .contactSiteMap{
+        height: 850px;
+
+    }
+    .counterDiv{
+        height: 72rem;
+    }
+    .mvParagraph{
+        width: 300px;
+        margin-left: 12%;
+    }
+    .misionVision{
+        height: 95rem;
+        margin-top: 0%;
+    }
+    .mvContainer{
+        height: 94rem;
+    }
+    .misionImg{
+        height: 14rem;
+    }
+    .counter{
+        font-size: 40px;
+    }
+    .obraCivilimg, .hogarImg{
+        height: 10rem;
+
+    }
+    .choosing{
+        margin-top: 15%;
+    }
+    .serviciosFsTitles{
+        font-size: 1rem;
+    }
+    .serviciosUno, .serviciosDos {
+        height: 40%;
+    }
+    .serviciosDos{
+        top: 50%;
+    }
+    .display-4{
+        font-size: 2.5rem !important;
+    }
+    .hogardummie{
+        width: 84% !important;
+        margin-left: 7%;
+        margin-top: 7%;
+    }
+    .hogardummie2{
+        top: 20% !important;
+        width: 61% !important;
+        left: 39% !important;
+        height: 20% !important;
+    }
+    .hogarPlaceholder{
+        height: 23.5rem !important;
+    }
+    .hogarExp{
+        height: 2200px;
+    }
+    .hogTitle{
+        font-size: 1.5rem !important;
+    }
+    .cardsContainer{
+        margin-top: 17% !important;
+        margin-left: 4% !important;
+
+    }
+
+}
+header {
+    position: relative;
+    background-color: black;
+    height: 75vh;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+  }
+  
+  header .container {
+    position: relative;
+    z-index: 2;
+  }
+  
+  header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.4;
+    z-index: 1;
+  }
+  
+  /* @media (pointer: coarse) and (hover: none) {
+    header {
+      background: url('https://source.unsplash.com/XT5OInaElMw/1600x900') black no-repeat center center scroll;
+    }
+    header video {
+      display: none;
+    }
+  } */
